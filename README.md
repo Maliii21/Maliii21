@@ -40,7 +40,7 @@ Studying image analysis, object detection, image segmentation, feature extractio
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,github,vscode" />
   </a>
 </p>
 
